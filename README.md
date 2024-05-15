@@ -205,7 +205,7 @@ void yyerror() {
     printf("\n Error on line no:%d",LineNo);
 }
 ```
-exp7.c
+## exp7.c
 ```
 int main() {
     int a, b, c;
